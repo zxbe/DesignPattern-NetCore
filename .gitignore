@@ -3,3 +3,7 @@
 ################################################################################
 
 /DesignPatterns-NetCore/bin/Debug/netcoreapp3.0
+/DesignPatterns-NetCore/obj
+/Pattern-Singleton/obj
+/Pattern-Singleton/bin/Debug/netcoreapp3.0
+/DesignPatterns-NetCore/.vs/DesignPatterns-NetCore
